@@ -1,5 +1,7 @@
 # Dummy-Portfolio
 
+Here is the link to the fully deployed dummy portfolio - dummy-portfolio-react.netlify.app 
+
 Welcome to my dummy portfolio built using Tailwind CSS and React! This repository showcases my skills, projects, testimonials, and provides a way to get in touch with me. Below is a brief overview of each section:
 
 ## My Skills
